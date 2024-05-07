@@ -1,35 +1,7 @@
 #################Project Structre##################################################
-EcoEye-Online_Bird_Monitoring_System
-|
-|-- App
-|   |-- Templates
-|   |   |-- app
-|   |       |-- Static
-|   |           |-- css
-|   |           |-- img
-|   |           |-- js
-|   |           |-- lib
-|   |
-|   |-- Migrations
-|   |-- Admin.py
-|   |-- Apps.py
-|   |-- Models.py
-|   |-- Tests.py
-|   |-- Urls.py
-|   |-- Views.py
-|
-|-- Ecobird
-|   |-- __init__.py
-|   |-- asgi.py
-|   |-- settings.py
-|   |-- urls.py
-|   |-- views.py
-|   |-- wsgi.py
-|
-|-- manage.py
-|-- model.h5
-|-- module.py
-|-- requirement.txt
+
+![image](https://github.com/VishalGirase/Eco_Eye/assets/70579998/5069b542-7e63-4fae-b758-7a095c0d8ac1)
+
 ###################################################################################
 1. Download zip file from Eco_Eye repo
 2. Then Unzip it
