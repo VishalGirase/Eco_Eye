@@ -6,6 +6,7 @@
 1. Download zip file from Eco_Eye repo
 2. Then Unzip it
 ###################################################################################
+
 #################Then Create Virtaul environment in VS code#######################
 1. First create folder in local disk such as C: and open folder in VS code
 2. Then open terminal
@@ -18,10 +19,11 @@
 5. python -m pip install --upgrade pip
 6. pip install -r requirements.txt
 ###################################################################################
+
 ######################To install Library outside of requirement.txt################
 pip install library_name
 ###################################################################################
+
 ######################Command to run project#######################################
-1. Command to run project locally 
 python manage.py runserver
 ###################################################################################
